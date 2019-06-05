@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "08-StarWars-1/package.json",
+        "09-StarWars-2/package.json",
+        "10-StarWars-3/package.json",
+        "11-StarWars-4/package.json",
+        "12-StarWars-5/package.json",
+        "13-StarWars-6/package.json",
+        "14-FinalStarwarsApp/package.json",
+        "15-ExtendedApp/package.json"
+      ]
+    }
+  }
+}
